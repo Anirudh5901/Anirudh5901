@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Anirudh5901
-- 👀 I’m interested in web development
-- 💞️ I’m looking to collaborate on web development projects
+- 👀 I’m interested in Blockchains, Smart Contract and WebDevelopment
+- 💞️ I’m looking to collaborate on smart contract development projects
 - 📫 How to reach me :
+- linkedIn: https://www.linkedin.com/in/anirudhaysola/
 - email: annirudh7777@gmail.com
 
 <!---
