@@ -3,7 +3,7 @@
 - 💞️ I’m looking to collaborate on smart contract development projects
 - 📫 How to reach me :
 - linkedIn: https://www.linkedin.com/in/anirudhaysola/
-- email: annirudh7777@gmail.com
+- email: aanirudh7777@gmail.com
 
 <!---
 Anirudh5901/Anirudh5901 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
